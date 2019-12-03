@@ -1,0 +1,28 @@
+{
+  "name": "grunt_sample",
+  "version": "1.0.0",
+  "description": "grunt sample running couple jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "grunt",
+    "js",
+    "automation"
+  ],
+  "author": "Han Jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "protractor": "^5.4.2"
+  }
+}
